@@ -1,0 +1,2 @@
+because the file is too large, we couldn't push it to github:
+link to dataset: https://www.kaggle.com/datasets/amaanpoonawala/youtube-comments-sentiment-dataset
